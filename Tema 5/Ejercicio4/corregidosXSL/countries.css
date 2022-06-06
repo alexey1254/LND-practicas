@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+* {
+    margin:0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    text-align: center;
+}
+
+
+table{
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+th{
+    padding: 10px;
+    background-color: rgb(61, 183, 231);
+    border: 1px solid;
+}
+
+td{
+    background-color: rgb(209, 209, 209);
+    border: 1px solid;
+}
