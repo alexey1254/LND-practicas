@@ -25,7 +25,7 @@
                         <tr>
                             <td><xsl:value-of select="@name" /></td>
                             <td><xsl:value-of select="count(language)"/></td>
-                            <td><xsl:value-of select="@population * language[.='Spanish]/@percentage div 100"/></td>
+                            <td><xsl:value-of select="@population * language[.='Spanish']/@percentage div 100"/></td>
                             <td><xsl:value-of select="@population div @area"/></td>
                         </tr>
                     </xsl:for-each>
