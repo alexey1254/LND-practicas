@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="pelisSinFotos.xsl"?>
+<?xml-stylesheet type="text/xsl" href="pelisConFotos.xsl"?>
 <videoclub xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="videoclub.xsd">
 	<pelicula>
 		<titulo>Las Normas de la Casa de la Sidra</titulo>
